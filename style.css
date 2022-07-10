@@ -48,6 +48,11 @@ a:hover[id="steam"]
     color: #f0f6fc;
 }
 
+a:hover[id="steam"]
+{
+    color: #ADD8E6;
+}
+
 a:hover
 {
     filter: drop-shadow(0 0 8px currentcolor);
