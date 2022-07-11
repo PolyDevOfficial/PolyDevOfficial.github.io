@@ -53,6 +53,11 @@ a:hover[id="twitter"]
     color: #ADD8E6;
 }
 
+a:hover[id="instagram"]
+{
+    color: #FFB6C1;
+}
+
 a:hover
 {
     filter: drop-shadow(0 0 8px currentcolor);
