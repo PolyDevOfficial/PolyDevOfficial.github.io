@@ -43,11 +43,6 @@ a:hover[id="spotify"]
     color: #1db954;
 }
 
-a:hover[id="steam"]
-{
-    color: #f0f6fc;
-}
-
 a:hover[id="twitter"]
 {
     color: #ADD8E6;
@@ -58,7 +53,7 @@ a:hover[id="instagram"]
     color: #f542dd;
 }
 
-a:hover[id="roblox"]
+a:hover[id="steam"]
 {
     color: #6b656a;
 }
